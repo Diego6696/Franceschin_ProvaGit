@@ -1,0 +1,12 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4c06\Desktop\Franceschin_ProvaGit
+
+16/10/2021  10:00    <DIR>          .
+16/10/2021  10:00    <DIR>          ..
+16/10/2021  10:00                 0 dir.txt
+16/10/2021  09:23                35 info.txt
+16/10/2021  09:19                39 README.md
+               3 File             74 byte
+               2 Directory  22.731.976.704 byte disponibili
